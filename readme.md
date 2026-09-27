@@ -1,6 +1,10 @@
 20260926
 
-This is a port of xrick to the NABU PC, based on the TI-99/4A port.
+https://nabu.ca/software/176
+https://www.youtube.com/watch?v=ISQDIoS5I18
+
+This is a port of [rickti](https://github.com/tursilion/rickti) to the NABU PC.
+rickti is a port of [xrick](https://github.com/tursilion/rickti)
 
 It supports F18A/PICO9918/TNVDP for enhanced colours but also runs on a stock NABU.
 
