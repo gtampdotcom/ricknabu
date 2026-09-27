@@ -1,9 +1,11 @@
 20260926
 
 https://nabu.ca/software/176
+
 https://www.youtube.com/watch?v=ISQDIoS5I18
 
 This is a port of [rickti](https://github.com/tursilion/rickti) to the NABU PC
+
 rickti is a port of [xrick](https://github.com/tursilion/rickti)
 
 It supports F18A/PICO9918/TN-VDP for enhanced colours but also runs on a stock NABU.
