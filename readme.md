@@ -3,10 +3,10 @@
 https://nabu.ca/software/176
 https://www.youtube.com/watch?v=ISQDIoS5I18
 
-This is a port of [rickti](https://github.com/tursilion/rickti) to the NABU PC.
+This is a port of [rickti](https://github.com/tursilion/rickti) to the NABU PC
 rickti is a port of [xrick](https://github.com/tursilion/rickti)
 
-It supports F18A/PICO9918/TNVDP for enhanced colours but also runs on a stock NABU.
+It supports F18A/PICO9918/TN-VDP for enhanced colours but also runs on a stock NABU.
 
 The [rickti](https://github.com/tursilion/rickti) version requires a 256KB ROM and 32KB of RAM. The NABU has 64KB of RAM but it has no cartridge port or bank switching, so it has to download resources as required from the HCCA. I managed to squeeze rick.nabu into 32KB, leaving the other 32KB for scratch and download space. It uses a rolling sprite cache to store sprites on demand, you will notice some delays when there are more sprites on screen than can fit in RAM. This could be optimised further but I'm happy with the current playability.
 
